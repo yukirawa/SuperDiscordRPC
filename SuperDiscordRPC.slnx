@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="SuperDiscordRPC.Desktop/SuperDiscordRPC.Desktop.csproj" />
+  <Project Path="SuperDiscordRPC.Server/SuperDiscordRPC.Server.csproj" />
+  <Project Path="SuperDiscordRPC.Shared/SuperDiscordRPC.Shared.csproj" />
+</Solution>
